@@ -1,6 +1,5 @@
 Write a c program of arthematic operators.
 
-
 #include<stdio.h>
 void main()
 {
@@ -18,4 +17,6 @@ void main()
 }
 
 Output of the program:
+![image](https://github.com/AklavyaSangra/Homework/assets/146859465/e29ca28b-a174-4a39-9ce5-a547f4108120)
+
 
