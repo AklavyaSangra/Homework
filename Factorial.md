@@ -30,4 +30,8 @@ int main() {
 Output of the program:
 
 
+![image](https://github.com/AklavyaSangra/Homework/assets/146859465/008272d8-7144-4f72-8b15-22dae36e9535)
+
+
+
 
