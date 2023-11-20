@@ -1,9 +1,9 @@
 Write a c program to check whether an alphabet is vowels or consonants.
 
 
-#include<stdio.h>
-void main()
-{
+    #include<stdio.h>
+    void main()
+    {
     char A;
     printf("Enter the Alphabet:");
     scanf("%C",&A);
@@ -15,10 +15,10 @@ void main()
     {
         printf("the alphabet is consonant",A);
     }
-}
+    }
 
 
 Output of the program:
 
 
-![image](https://github.com/AklavyaSangra/Homework/assets/146859465/daacb7c0-5171-4a37-9903-9d0682e1233d)
+![image](https://github.com/AklavyaSangra/Homework/assets/146859465/931352a3-c880-4c30-ba18-64f39fbda783)
