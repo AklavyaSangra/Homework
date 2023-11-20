@@ -1,10 +1,10 @@
 Write a c code finding the distance between two points.
 
-
-#include<stdio.h>
-#include<math.h>
-void main()
-{
+   
+    #include<stdio.h>
+    #include<math.h>
+    void main()
+    {
     float a,b,c,d,e;
     printf("Enter the value of a");
     scanf("%f",&a);
@@ -17,13 +17,13 @@ void main()
     float dist;
     dist=sqrt(b-a)*(b-a)+(c-d)*(c-d);
     printf("The distance between two point=%.2f",dist);
-}
+    }
 
 
 Output of the program:
 
 
-![image](https://github.com/AklavyaSangra/Homework/assets/146859465/e4677ce4-490e-45b1-9cc6-d376292b1bda)
+![image](https://github.com/AklavyaSangra/Homework/assets/146859465/6e4bc621-1a77-42d9-877a-f9111b9788d0)
 
 
 
