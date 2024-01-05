@@ -47,4 +47,5 @@ program to search an element in an arry using linear search.
 Output of the program:
 
 
-![image](https://github.com/AklavyaSangra/Homework/assets/146859465/b6f230c2-6f5b-450f-9a06-61346538db56)
+![image](https://github.com/AklavyaSangra/Homework/assets/146859465/d1b2ea1e-f52c-4694-983a-695c359249ee)
+
