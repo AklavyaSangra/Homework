@@ -38,3 +38,10 @@
     }
 
 
+Output of the program:
+
+
+![image](https://github.com/AklavyaSangra/Homework/assets/146859465/94ce338a-d133-4874-be40-60d7417fd815)
+
+
+
