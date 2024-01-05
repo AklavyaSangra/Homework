@@ -1,4 +1,4 @@
-Write a c code for 2D arry.
+//Write a c code for 2D arry.
     
     #include <stdio.h>
 
@@ -38,7 +38,3 @@ Write a c code for 2D arry.
     }
 
 
-Output of the program:
-
-
-![image](https://github.com/AklavyaSangra/Homework/assets/146859465/48c00016-2c61-410b-8783-880096e9dea4)
